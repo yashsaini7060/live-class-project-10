@@ -272,6 +272,14 @@ nav{
 
 @media screen and (max-width:575px){
 
+  body{
+    background-image: url('../assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    min-height: 150vh;
+  }
+
   html{
     font-size: 35%;
   }
